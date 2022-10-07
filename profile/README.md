@@ -51,6 +51,11 @@ Education: Silicon Institute of Technology \
 Experience: 1+ years of experience \
 Expertise: AWS, Python, Ruby, Rails, Django, JavaScript
 
+### [Prashant Chavan]https://www.linkedin.com/in/prashant-chavan-68749017a/) - Full Stack Developer
+Education: University of Pune \
+Experience: 1+ years of experience \
+Expertise: JavaScript, Vue.js, React.js, Node.js, Rails
+
 ## 🍿 Technologies & tools we frequently use
 
 #### Mockup & Design
@@ -66,6 +71,12 @@ Expertise: AWS, Python, Ruby, Rails, Django, JavaScript
 - Vue.js
 - React.js
 - Jam Stack
+
+#### Mobile Development
+- Flutter
+- React Native
+- NativeScript
+- Android - Java/Kotlin Native
 
 #### Database
 - SQL - MySQL | Postgresql
