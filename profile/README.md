@@ -17,45 +17,6 @@ Having delivered 20+ projects with founders like you from around the globe - the
 You can check out our [portfolio](https://acornglobus.com#projects) to learn about a few of our projects.
 
 
-## 👩‍💻 Our Team
-
-Our team is 100% remote, and we function on agile development principles. Our team is seven-member strong and growing.
-
-### [Tarun Kumar Bhukya](https://www.linkedin.com/in/tarun-kumar-bhukya-40168b85/) - Co-Founder
-Education: IIT Graduate \
-Experience: 7+ years of experience \
-Expertise: Cloud, DevOps, System Design, Automation
-
-### [Ankit Singhaniya](https://www.linkedin.com/in/ankitsinghaniyaz/) - Co-Founder
-Education: University of Pune \
-Experience: 6+ years of experience \
-Expertise: Business, Backend, Frontend, Mobile Development
-
-### [Yaswanth Mundri](https://www.linkedin.com/in/yaswanth-munduri-8976751b6/) - Senior Engineer
-Education: VSM College of Engineering \
-Experience: 1+ years of experience \
-Expertise: Vue, React, Ruby, Rails, JavaScript, Native Development
-
-### [Aditya Prasad Dhal](https://www.linkedin.com/in/dhaladitya108/) - UI/UX Designer
-Education: Silicon Institue of Technology \
-Experience: 1+ years of experience \
-Expertise: User Interaction, UI Design, UX Design, HTML, CSS
-
-### [Piyush Singhania](https://www.linkedin.com/in/piyushsinghaniya/) - Full Stack Developer
-Education: Silicon Institue of Technology \
-Experience: 1+ years of experience \
-Expertise: JavaScript, Vue, React, SQL, Rails, Ruby
-
-### [Santosh Kumar Patro](https://www.linkedin.com/in/skpatro11/) - Full Stack Developer
-Education: Silicon Institute of Technology \
-Experience: 1+ years of experience \
-Expertise: AWS, Python, Ruby, Rails, Django, JavaScript
-
-### [Prashant Chavan](https://www.linkedin.com/in/prashant-chavan-68749017a/) - Full Stack Developer
-Education: University of Pune \
-Experience: 1+ years of experience \
-Expertise: JavaScript, Vue.js, React.js, Node.js, Rails
-
 ## 🍿 Technologies & tools we frequently use
 
 #### Mockup & Design
